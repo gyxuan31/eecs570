@@ -3,7 +3,7 @@
 - Final Project - SWEL https://ieeexplore.ieee.org/document/7851544
 
 \eecs570\Murphi3.1\eecs570_sample\
- - twostate.m, pingpong.m - example
- - msi.m - PA2 - MSI baseline protocol
- - msi_opt.m - PA2 - MESI + self-downgrade(M,E - S spontaneously)
- - swel.m - Final project
+ - Example - twostate.m, pingpong.m
+ - PA2 - msi.m - MSI baseline protocol
+ - PA2 - msi_opt.m - MESI + self-downgrade(M,E - S spontaneously)
+ - Final project - swel.m
