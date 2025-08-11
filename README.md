@@ -1,4 +1,4 @@
-# Design and Verification of a Cache Coherence Protocol using Murphi
+# Design and Verification of a Cache Coherence Protocol using Murphi  
 ### PA2 - Design and Verification of a Cache Coherence Protocol (MSI, MESI) using Murphi
   https://www.eecs.umich.edu/courses/eecs570/discussions/w23/assignment_2.html
 
